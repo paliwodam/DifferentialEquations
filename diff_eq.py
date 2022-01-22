@@ -48,8 +48,7 @@ def union_f_g(f, g):
 
 def solve(n):
     e = get_e(n)
-    e_ = e[0:n]
-    a_B, a_L = get_arrays(B, L, e_)
+    a_B, a_L = get_arrays(B, L, e[0:n])
     a_u = get_a_u(a_B, a_L)
 
     u = lambda x: e[n](x)
