@@ -51,7 +51,7 @@ def solve(n):
     a_B, a_L = get_arrays(B, L, e[0:n])
     a_u = get_a_u(a_B, a_L)
 
-    u = lambda x: e[n](x)
+    u = e[n]
     for i in range(n):
         u = union_f_g(u, lambda x: e[i](x) * a_u[i])
 
