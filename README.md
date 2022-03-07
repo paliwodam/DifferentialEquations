@@ -10,11 +10,7 @@
       \end{array} 
       \right.  $$ 
  } " />  -->
- 
-<img src="http://latex.codecogs.com/svg.latex?&space;&space;&space;&space;&space;&space;$$&space;\left\{&space;&space;&space;&space;&space;&space;\begin{array}{ll}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{-d^2u(x)}{dx^2}-u=sinx&space;\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;u(0)=0\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{du(2)}{dx}-u(2)=0\\&space;&space;&space;&space;&space;&space;\end{array}&space;&space;&space;&space;&space;&space;&space;\right.&space;&space;$$&space;" title="http://latex.codecogs.com/svg.latex? $$ \left\{ \begin{array}{ll} \frac{-d^2u(x)}{dx^2}-u=sinx \\ u(0)=0\\ \frac{du(2)}{dx}-u(2)=0\\ \end{array} \right. $$ " />
-
-$$[0,2]\ni x \rightarrow u(x) \in R $$
-
+![equation](http://latex.codecogs.com/svg.latex?&space;&space;&space;&space;&space;&space;$$&space;\left\{&space;&space;&space;&space;&space;&space;\begin{array}{ll}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{-d^2u(x)}{dx^2}-u=sinx&space;\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;u(0)=0\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{du(2)}{dx}-u(2)=0\\&space;&space;&space;&space;&space;&space;\end{array}&space;&space;&space;&space;&space;&space;&space;\right.&space;&space;$$&space;)
 ### The above function can be transformed into the form:
 
 $$
