@@ -10,7 +10,7 @@
       \end{array} 
       \right.  $$ 
  } " />  -->
-![equation](<img src="http://latex.codecogs.com/svg.latex?&space;&space;&space;&space;&space;&space;\left\{&space;&space;&space;&space;&space;&space;\begin{array}{ll}&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{-d^2u(x)}{dx^2}-u=sinx&space;\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;u(0)=0\\&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;&space;\frac{du(2)}{dx}-u(2)=0\\&space;&space;&space;&space;&space;&space;\end{array}&space;&space;&space;&space;&space;&space;&space;\right.&space;&space;" title="http://latex.codecogs.com/svg.latex? \left\{ \begin{array}{ll} \frac{-d^2u(x)}{dx^2}-u=sinx \\ u(0)=0\\ \frac{du(2)}{dx}-u(2)=0\\ \end{array} \right. " />)
+![equation](http://latex.codecogs.com/svg.latex?%20%20%20%20%20%20%5Cleft%5C%7B%20%20%20%20%20%20%5Cbegin%7Barray%7D%7Bll%7D%20%20%20%20%20%20%20%20%20%20%20%20%5Cfrac%7B-d%5E2u(x)%7D%7Bdx%5E2%7D-u=sinx%20%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20u(0)=0%5C%5C%20%20%20%20%20%20%20%20%20%20%20%20%5Cfrac%7Bdu(2)%7D%7Bdx%7D-u(2)=0%5C%5C%20%20%20%20%20%20%5Cend%7Barray%7D%20%20%20%20%20%20%20%5Cright.%20%20)
 ### The above function can be transformed into the form:
 
 $$
