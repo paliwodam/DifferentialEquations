@@ -21,4 +21,4 @@ $$
 ### Remaining steps and calculations are done with *numpy*, *scipy* and *matplotlib* libraries.
 
 
-![Result graph](/result.png)
+![Result graph](/result.PNG)
