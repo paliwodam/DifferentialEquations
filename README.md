@@ -19,6 +19,4 @@ $$
 
 ### Remaining steps and calculations are done with *numpy*, *scipy* and *matplotlib* libraries.
 
-<p align="center">
 ![Result graph](/result.PNG)
-</p>
